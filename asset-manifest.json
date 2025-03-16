@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.067372ad.css",
-    "main.js": "/static/js/main.561be40a.js",
-    "static/js/453.fe200540.chunk.js": "/static/js/453.fe200540.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.067372ad.css.map": "/static/css/main.067372ad.css.map",
-    "main.561be40a.js.map": "/static/js/main.561be40a.js.map",
-    "453.fe200540.chunk.js.map": "/static/js/453.fe200540.chunk.js.map"
+    "main.css": "/video-learning-react-deploy/static/css/main.067372ad.css",
+    "main.js": "/video-learning-react-deploy/static/js/main.ddb1d911.js",
+    "static/js/453.fe200540.chunk.js": "/video-learning-react-deploy/static/js/453.fe200540.chunk.js",
+    "static/media/logo.svg": "/video-learning-react-deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/video-learning-react-deploy/index.html",
+    "main.067372ad.css.map": "/video-learning-react-deploy/static/css/main.067372ad.css.map",
+    "main.ddb1d911.js.map": "/video-learning-react-deploy/static/js/main.ddb1d911.js.map",
+    "453.fe200540.chunk.js.map": "/video-learning-react-deploy/static/js/453.fe200540.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.067372ad.css",
-    "static/js/main.561be40a.js"
+    "static/js/main.ddb1d911.js"
   ]
 }
